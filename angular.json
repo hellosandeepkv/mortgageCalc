@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "mortgage-calculator"
+  "defaultProject": "mortgage-calculator",
+  "cli": {
+    "analytics": false
+  }
 }
